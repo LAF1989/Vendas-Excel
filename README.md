@@ -9,7 +9,7 @@ Abra o arquivo Vendas.xlsx.
 
 Ele contem as seguintes abas:
 -Assets: onde ficam informações sobre recursos que serão usados no Dashboard, como cores e icones.
--Bases: onde são disponibilizados os dados fictícios que serão usados para gerar informações sobre as vendas de jogos de voley da olimpíada.
+-Bases: onde são disponibilizados os dados fictícios que serão usados para gerar informações sobre as vendas de jogos de volei da olimpíada.
 -Calculos: onde estão as tabelas dinâmicas usadas nos dashboads
 -Dashboad: onde é possível visualizar o Dashboard.
 
